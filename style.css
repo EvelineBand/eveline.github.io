@@ -1,0 +1,23 @@
+/*Styling file for eveline \m/ */
+
+.h1 {
+    color: white;
+}
+
+.h2 {
+    color: white;
+}
+
+.h3 {
+    color: white;
+}
+
+.p {
+    color: white;
+}
+
+.mainContainer {
+    background-color: black;
+
+    display: flex;
+}
